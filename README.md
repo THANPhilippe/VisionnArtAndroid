@@ -45,7 +45,7 @@ utilisateur sont précisées dans la suite du document.</p>
 	Nous avons choisi cette technologie car elle correspondait à nos attentes. Nous avons comparé avec une autre solution FireBase appelé Realtime Database. Voici le comparatif des deux solutions réalisé par Google : https://firebase.google.com/docs/database/rtdb-vs-firestore.</p>
 	<p align='center'><img src="https://firebasestorage.googleapis.com/v0/b/visonnart.appspot.com/o/Img%2Ffirebase.png?alt=media&token=a339ffac-0b87-434c-83b4-06d63dba6f18"/></p>
 	<h2>APIs et Services</h2>
-	<h3>Cloud AutoML :cloud:<h3>
+	<h3>Cloud AutoML :cloud:</h3>
 	<p>
 	Cloud AutoML est une suite de produits de machine learning qui permet aux développeurs peu expérimentés dans ce domaine d'entraîner des modèles de haute qualité répondant aux besoins spécifiques de leur entreprise. Cette solution bénéficie des fonctionnalités avancées d'apprentissage par transfert de Google et de la technologie NAS (Neural Architecture Search).</br></br>
 	Cloud AutoML tire parti de plus de 10 ans consacrés à la technologie propriétaire Google Research pour optimiser les performances de vos modèles de machine learning et améliorer la précision de vos prédictions.</br></br>

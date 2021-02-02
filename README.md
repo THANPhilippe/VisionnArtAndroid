@@ -1,7 +1,4 @@
 # Vision'n Art :eyes: :art:
-<p align="center" style="background-color:white" background="white"><a href="https://dahlemromain.fr/#visionnartSection" target="_blank">
-	<img src="https://dahlemromain.fr/img/projects/Visionnart_x500.png">
-</a></p>
 
 <h1>Table de matières</h1>
 <ul>
